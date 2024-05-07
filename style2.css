@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(228, 105, 126);
+}
+
+div{
+    text-align: center;
+    background-color: pink;
+      
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 10px;
+}
+
+nav ul li {
+    display: inline; /* Faz os itens <li> ficarem lado a lado */
+    margin-right: 150px; /* Adiciona um espaçamento entre os itens */
+    
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.img1{
+   position: relative;
+   left: 553px; /* Move a imagem 50 pixels para a direita */
+   border: 2px solid black;
+   border-radius: 50px;
+   
+}
